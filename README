@@ -1,0 +1,29 @@
+C++11语法和特性
+
+原文：
+GitHub: https://github.com/EzoeRyou/cpp-book
+GitHub Pages: http://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml
+
+简体中文翻译：
+GitHub: https://github.com/zooxyt/cpp-book-chinese
+GitHub Pages: http://zooxyt.github.io/cpp-book-chinese/C++11-Syntax-and-Feature.xhtml
+
+这本书可以在gumroad购买到。
+如果你购买这本书，将会帮助笔者增加自由写作参考书的时间。
+在Gumroad购买: https://gumroad.com/l/IwMm
+
+关于笔者
+
+姓名：江添亮
+Mail : boostcpp@gmail.com
+Blog : http://cpplover.blogspot.jp/
+
+
+序言
+
+这本书根据语言标准对C++11核心语言的语法和特性进行解说。这本书参考的是C++11标准正是发行后的一个草案、N3337。参考这份草案的理由是，个人获取正式的C++标准非常繁琐。根据读者难以获取的资料进行记述的参考书是没有价值的。于是，写作时参考的是这份读者容易入手并且和正式的C++标准区别不大的草案。
+
+这本书面向的读者是C++的使用者，而不是C++的实现者。所以这本书中增加了示例代码和冗长的解说，而省略了实现C++编译器所需要的详细定义。所以这本书不是C++标准的翻译，也不能用来验证C++标准。
+
+这本书刚开始写作时，还是在C++11被叫做C++0x的2010年。所以参考了当时的标准草案写作的部分，和正式的C++11标准或许会有不同之处。本书中找到了很多处与正式发布的C++标准不符的地方，和C++14不同的地方也有。同时，因为草案写作的时候变化很快很大，所以也可能有其他漏掉的地方。
+
